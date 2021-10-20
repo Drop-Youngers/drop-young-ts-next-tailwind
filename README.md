@@ -17,9 +17,7 @@ Contributions are always welcome😀!
 ## Tech Stack
 
 
-**Runtime-Environment:** JRE
-
-**Web-framework:** Next
+**Web-framework:** Next js
 
 **CSS-Framework:** Tailwind
 
